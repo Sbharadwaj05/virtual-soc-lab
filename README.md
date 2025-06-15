@@ -8,3 +8,4 @@ This project simulates a basic Security Operations Center (SOC) using a home lab
 - Detection of malicious activity using Splunk queries
 
 📄 [Read the full report here](Virtual%20SOC%20Attack-Defense%20Lab%20.pdf)
+
