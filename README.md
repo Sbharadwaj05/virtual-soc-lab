@@ -7,5 +7,5 @@ This project simulates a basic Security Operations Center (SOC) using a home lab
 - SIEM setup with Splunk
 - Detection of malicious activity using Splunk queries
 
-📄 [Read the full report here](Virtual%20SOC%20Attack-Defense%20Lab%20.pdf)
+📄 [Read the full report here](virtual-soc-attack-defense-lab.pdf)
 
